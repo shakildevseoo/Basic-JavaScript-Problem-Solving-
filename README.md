@@ -43,7 +43,9 @@ The problems are sourced from a comprehensive problem set (`problems.txt`), and 
 ## 📁 Repository Structure
 
 ├── problems.txt # Contains the problem statements
+
 ├── js_problem_solving.js # Contains all JavaScript solutions
+
 └── README.md # Project documentation (this file)
 
 
